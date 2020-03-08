@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewinFragment</string>
+    <string name="Lihat">LIHAT</string>
+    <string name="Share">SHARE</string>
+    <string name="ahmad_dahlan">Ahmad Dahlan</string>
+    <string name="desc_ahmad_dahlan">Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H. Ahmad Dahlan adalah puteri dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu. KH. Ahmad Dahlan telah mempelopori kebangkitan ummat Islam untuk menyadari nasibnya sebagai bangsa terjajah yang masih harus belajar dan berbuat.
+
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
